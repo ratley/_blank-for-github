@@ -4,5 +4,3 @@
       $(v).attr('target', '_blank')
     }
   })
-
-console.log('hi')
